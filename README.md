@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freitasbaptista
-- 👀 I’m interested in Developer c# and windows forms
-- 🌱 I’m currently learning c# and windows forms
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Developer @c# and @windows @forms
+- 🌱 I’m currently learning c# and @windows @forms
+- 💞️ I have very exercices done for me in c# in my @gits
 - 📫 How to reach me ...
 
 <!---
